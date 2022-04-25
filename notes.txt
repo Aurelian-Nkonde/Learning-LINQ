@@ -1,0 +1,48 @@
+LINQ => language intergrated quary 
+is a set of language and runtime features for
+    writing structured type-safe queries over local object collections and remote data
+    sources.
+LINQ enables you to query any collection implementing IEnumerable<T>,
+
+
+Getting Started
+The basic units of data in LINQ are sequences and elements
+A sequence is any object that implements IEnumerable<T>,an element is each item in the sequence
+
+string[] names = {"anna", "boi"}; 
+names => sequence, anna & boi are elements
+
+We call this a local sequence because it represents a local collection of objects in
+    memory
+
+A query operator => is a method that transforms a sequence
+A typical query operator accepts an input sequence and emits a transformed output sequence
+Queries that operate over local sequences are called local queries
+    or LINQ-to-objects queries.
+A query is an expression that, when enumerated, transforms sequences with query
+    operators
+
+Most query operators accept a lambda expression as an argument
+{ n => n.Length >= 4 }
+The input argument corresponds to an input element. In this case, the input argu‐
+ment n represents each name in the array and is of type string. The Where operator
+requires that the lambda expression return a bool value, which if true, indicates
+that the element should be included in the output sequence
+
+c# uses fluent syntax and query expression syntax!
+
+
+Fluent Syntax/LINQ Method Syntax
+Fluent syntax is the most flexible and fundamental
+A lambda expression that takes a value and returns a bool is called a predicate.
+The compiler converts query syntax into method syntax at compile time
+
+
+
+Query Syntax
+The LINQ query syntax starts with from keyword and ends with select keyword
+Query syntax starts with a From clause followed by a Range variable
+After the From clause, you can use different Standard Query Operators to filter,
+    group, join elements of the collection
+LINQ query syntax always ends with a Select or Group clause
+The Select clause is used to shape the data

@@ -1,0 +1,15 @@
+C:\Users\Aconte\Desktop\c#\learningLinq\bin\Debug\net6.0\learningLinq.exe
+C:\Users\Aconte\Desktop\c#\learningLinq\bin\Debug\net6.0\learningLinq.deps.json
+C:\Users\Aconte\Desktop\c#\learningLinq\bin\Debug\net6.0\learningLinq.runtimeconfig.json
+C:\Users\Aconte\Desktop\c#\learningLinq\bin\Debug\net6.0\learningLinq.dll
+C:\Users\Aconte\Desktop\c#\learningLinq\bin\Debug\net6.0\learningLinq.pdb
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\learningLinq.csproj.AssemblyReference.cache
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\learningLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\learningLinq.AssemblyInfoInputs.cache
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\learningLinq.AssemblyInfo.cs
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\learningLinq.csproj.CoreCompileInputs.cache
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\learningLinq.dll
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\refint\learningLinq.dll
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\learningLinq.pdb
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\learningLinq.genruntimeconfig.cache
+C:\Users\Aconte\Desktop\c#\learningLinq\obj\Debug\net6.0\ref\learningLinq.dll
