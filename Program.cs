@@ -4,6 +4,7 @@ namespace learning.linq
 {
     public class Program
     {
+        /*
         static void Main(string[] args)
         {
             //The simplest query comprises one input sequence and one operator
@@ -98,5 +99,7 @@ namespace learning.linq
         {
             return $"Student: {this.Name} is {this.Age} years!";
         }
+
+        */
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aconte\\Desktop\\c#\\learningLinq\\learningLinq.csproj": {}
+    "C:\\Users\\Aconte\\Desktop\\c#\\learninglinq\\learningLinq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aconte\\Desktop\\c#\\learningLinq\\learningLinq.csproj": {
+    "C:\\Users\\Aconte\\Desktop\\c#\\learninglinq\\learningLinq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aconte\\Desktop\\c#\\learningLinq\\learningLinq.csproj",
+        "projectUniqueName": "C:\\Users\\Aconte\\Desktop\\c#\\learninglinq\\learningLinq.csproj",
         "projectName": "learningLinq",
-        "projectPath": "C:\\Users\\Aconte\\Desktop\\c#\\learningLinq\\learningLinq.csproj",
+        "projectPath": "C:\\Users\\Aconte\\Desktop\\c#\\learninglinq\\learningLinq.csproj",
         "packagesPath": "C:\\Users\\Aconte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aconte\\Desktop\\c#\\learningLinq\\obj\\",
+        "outputPath": "C:\\Users\\Aconte\\Desktop\\c#\\learninglinq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aconte\\AppData\\Roaming\\NuGet\\NuGet.Config",
